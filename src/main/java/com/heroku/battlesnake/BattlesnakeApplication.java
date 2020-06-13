@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BattlesnakeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GameController.class, args);
+        SpringApplication.run(BattlesnakeApplication.class, args);
     }
 
 }
